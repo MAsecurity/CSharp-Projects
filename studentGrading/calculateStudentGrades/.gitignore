@@ -1,4 +1,4 @@
 bin 
 obj
 calculateStudentGrades.csproj
-studentGrading.sln
+../studentGrading.sln
